@@ -1,5 +1,8 @@
 # BDD-AppBank
 
+[![PL/SQL](https://img.shields.io/badge/PL/SQL-4479A1.svg)](https://fr.wikipedia.org/wiki/Structured_Query_Language)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](https://www.oracle.com/fr/database/technologies/appdev/plsql.html)
+
 IUT Paris Descartes - 2020 - Enseignant : FESSY Jérôme.
 
 ## Développement en PL/SQL d'une application bancaire de gestion de comptes. 
